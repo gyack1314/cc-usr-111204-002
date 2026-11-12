@@ -1,0 +1,12 @@
+{
+  "workbook": "parameters-forward.xlsx",
+  "sheet": "燃机参数",
+  "header_first": 1,
+  "header_last": 2,
+  "body_first": 3,
+  "body_last": 5,
+  "date_style_ids": [
+    2
+  ],
+  "row_cache_limit": 20
+}
